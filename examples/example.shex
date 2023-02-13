@@ -1,0 +1,6 @@
+prefix : <http://example.org/>
+
+:Person {
+ :name  xsd:string
+ :knows @:Person *
+}

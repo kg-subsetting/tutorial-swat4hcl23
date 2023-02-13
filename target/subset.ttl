@@ -1,0 +1,1639 @@
+@prefix geo:      <http://www.opengis.net/ont/geosparql#> .
+@prefix p:        <http://www.wikidata.org/prop/> .
+@prefix pq:       <http://www.wikidata.org/prop/qualifier/> .
+@prefix pr:       <http://www.wikidata.org/prop/reference/> .
+@prefix prov:     <http://www.w3.org/ns/prov#> .
+@prefix ps:       <http://www.wikidata.org/prop/statement/> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema:   <http://schema.org/> .
+@prefix skos:     <http://www.w3.org/2004/02/skos/core#> .
+@prefix wd:       <http://www.wikidata.org/entity/> .
+@prefix wdno:     <http://www.wikidata.org/prop/novalue/> .
+@prefix wds:      <http://www.wikidata.org/entity/statement/> .
+@prefix wdt:      <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q140  rdf:type   wikibase:Item ;
+        rdfs:label  "lion"@en ;
+        p:P31       wds:Q140-77C2864C-D033-411F-9464-6019AC48178B ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q140-77C2864C-D033-411F-9464-6019AC48178B
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q146-72455A76-A6CA-4F37-97F4-21D8CCB59173
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q146  rdf:type   wikibase:Item ;
+        rdfs:label  "cat"@en ;
+        p:P31       wds:Q146-72455A76-A6CA-4F37-97F4-21D8CCB59173 ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q606  rdf:type   wikibase:Item ;
+        rdfs:label  "Exiliboa placata"@en ;
+        p:P31       wds:Q606-79D87C8A-A1C4-4E18-A934-BA760785E3B9 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q606-79D87C8A-A1C4-4E18-A934-BA760785E3B9
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q787  rdf:type   wikibase:Item ;
+        rdfs:label  "pig"@en ;
+        p:P31       wds:Q787-74F6CDD5-93AC-406F-8B46-F37761B998E1 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q787-74F6CDD5-93AC-406F-8B46-F37761B998E1
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q1358  rdf:type  wikibase:Item ;
+        rdfs:label  "Arachnida"@en ;
+        p:P31       wds:Q1358-08649113-A338-4CEC-89CB-EAE04F1B6247 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q1358-08649113-A338-4CEC-89CB-EAE04F1B6247
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q3460-D88BF72C-4A2F-4A6B-9C03-6EC1D05C5A3D
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q3460  rdf:type  wikibase:Item ;
+        rdfs:label  "Chaetobranchus"@en ;
+        p:P31       wds:Q3460-D88BF72C-4A2F-4A6B-9C03-6EC1D05C5A3D ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q3491  rdf:type  wikibase:Item ;
+        rdfs:label  "Crenicichla punctata"@en ;
+        p:P31       wds:Q3491-D18ACB59-F0D6-4DF2-A52F-60C9D4EA5F6C ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q3491-D18ACB59-F0D6-4DF2-A52F-60C9D4EA5F6C
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q3565-B579861F-6000-4107-88C4-7FB75149C1D8
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q3565  rdf:type  wikibase:Item ;
+        rdfs:label  "Archocentrus"@en ;
+        p:P31       wds:Q3565-B579861F-6000-4107-88C4-7FB75149C1D8 ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q3705  rdf:type  wikibase:Item ;
+        rdfs:label  "firemouth cichlid"@en ;
+        p:P31       wds:Q3705-B6EDD18C-20B8-477C-A029-67A02BE35F89 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q3705-B6EDD18C-20B8-477C-A029-67A02BE35F89
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q3727  rdf:type  wikibase:Item ;
+        rdfs:label  "Nannacara adoketa"@en ;
+        p:P31       wds:Q3727-FD2154EF-9844-4134-B50A-9E0209ABF586 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q3727-FD2154EF-9844-4134-B50A-9E0209ABF586
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q4118-2BBB7671-794A-46E1-8E60-CFA970752F4B
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q11173 .
+
+wd:Q4118  rdf:type  wikibase:Item ;
+        rdfs:label  "sulfuric acid"@en ;
+        p:P31       wds:Q4118-2BBB7671-794A-46E1-8E60-CFA970752F4B ;
+        p:P527      wds:Q4118-A21134EA-7F6A-4CE3-B873-54EA6143717B , wds:Q4118-2781D44E-1A4D-4A7B-933B-D7AB54918508 , wds:Q4118-E1C4F226-7E3A-4A5A-9B43-787BE42D5413 ;
+        wdt:P31     wd:Q11173 ;
+        wdt:P527    wd:Q556 , wd:Q629 , wd:Q682 .
+
+wds:Q4118-E1C4F226-7E3A-4A5A-9B43-787BE42D5413
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q629 .
+
+wds:Q4118-2781D44E-1A4D-4A7B-933B-D7AB54918508
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q556 .
+
+wds:Q4118-A21134EA-7F6A-4CE3-B873-54EA6143717B
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q682 .
+
+wds:Q4329-DE8E24DA-F594-4E3D-AD28-D988A6D39A43
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q11173 .
+
+wds:Q4329-c680582d-467f-ee3e-6f3c-75533a44c17f
+        rdf:type  wikibase:Statement ;
+        pq:P1114  "32"^^xsd:decimal ;
+        ps:P527   wd:Q556 .
+
+wd:Q4329  rdf:type  wikibase:Item ;
+        rdfs:label  "LXB4"@en ;
+        p:P31       wds:Q4329-DE8E24DA-F594-4E3D-AD28-D988A6D39A43 ;
+        p:P527      wds:Q4329-88d53171-44a3-e184-1321-7c39fbc1151a , wds:Q4329-c680582d-467f-ee3e-6f3c-75533a44c17f , wds:Q4329-b9d8f3ca-42fe-627a-b99b-3db11b1eebdd ;
+        wdt:P31     wd:Q11173 ;
+        wdt:P527    wd:Q623 , wd:Q556 , wd:Q629 .
+
+wds:Q4329-b9d8f3ca-42fe-627a-b99b-3db11b1eebdd
+        rdf:type  wikibase:Statement ;
+        pq:P1114  "20"^^xsd:decimal ;
+        ps:P527   wd:Q623 .
+
+wds:Q4329-88d53171-44a3-e184-1321-7c39fbc1151a
+        rdf:type  wikibase:Statement ;
+        pq:P1114  "5"^^xsd:decimal ;
+        ps:P527   wd:Q629 .
+
+wds:Q4388-28F2807A-CCB1-47D8-94BB-6E0F9C8F6331
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q4388  rdf:type  wikibase:Item ;
+        rdfs:label  "red squirrel"@en ;
+        p:P31       wds:Q4388-28F2807A-CCB1-47D8-94BB-6E0F9C8F6331 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q4468-B89BA7DA-B24B-4134-B117-6D571246D9C3
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q4468  rdf:type  wikibase:Item ;
+        rdfs:label  "Gobiidae"@en ;
+        p:P31       wds:Q4468-B89BA7DA-B24B-4134-B117-6D571246D9C3 ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q4870  rdf:type  wikibase:Item ;
+        rdfs:label  "Pinguipes brasilianus"@en ;
+        p:P31       wds:Q4870-73C32245-8677-4836-9762-8EC355C0757C ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q4870-73C32245-8677-4836-9762-8EC355C0757C
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q5182  rdf:type  wikibase:Item ;
+        rdfs:label  "Kinorhyncha"@en ;
+        p:P31       wds:Q5182-A7D57F6F-D2FC-4FA0-A863-A0B863DDDD71 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q5182-A7D57F6F-D2FC-4FA0-A863-A0B863DDDD71
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q5184-F7E14E63-0E89-4EE6-95C9-2664605E11E2
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q5184  rdf:type  wikibase:Item ;
+        rdfs:label  "Priapulida"@en ;
+        p:P31       wds:Q5184-F7E14E63-0E89-4EE6-95C9-2664605E11E2 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q5854-80665C3C-6D75-44B5-BF1C-47F240944865
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q5854  rdf:type  wikibase:Item ;
+        rdfs:label  "Amaurobiidae"@en ;
+        p:P31       wds:Q5854-80665C3C-6D75-44B5-BF1C-47F240944865 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q6145-535C975A-F6F1-4E20-9993-6F859C9E082B
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q6145  rdf:type  wikibase:Item ;
+        rdfs:label  "European hedgehog"@en ;
+        p:P31       wds:Q6145-535C975A-F6F1-4E20-9993-6F859C9E082B ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q6542-FAF41EE3-8C7F-495D-974C-8E9EAABF4B8D
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q6542  rdf:type  wikibase:Item ;
+        rdfs:label  "Herpesvirales"@en ;
+        p:P31       wds:Q6542-FAF41EE3-8C7F-495D-974C-8E9EAABF4B8D ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q7119-04F9D255-1F42-4B68-84DD-4C8EC5479493
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q7119  rdf:type  wikibase:Item ;
+        rdfs:label  "Mullus surmuletus"@en ;
+        p:P31       wds:Q7119-04F9D255-1F42-4B68-84DD-4C8EC5479493 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q8332-32A4B7AA-5838-40C2-B5BD-D8BE199F63DC
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q8332  rdf:type  wikibase:Item ;
+        rdfs:label  "Vulpes vulpes"@en ;
+        p:P31       wds:Q8332-32A4B7AA-5838-40C2-B5BD-D8BE199F63DC ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q8634  rdf:type  wikibase:Item ;
+        rdfs:label  "Clubionidae"@en ;
+        p:P31       wds:Q8634-A3919644-B323-4724-A7DF-864A404738E6 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q8634-A3919644-B323-4724-A7DF-864A404738E6
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q9147  rdf:type  wikibase:Item ;
+        rdfs:label  "Spheniscidae"@en ;
+        p:P31       wds:Q9147-F9B9CFA4-67B5-468E-8FD4-C8B36B744303 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q9147-F9B9CFA4-67B5-468E-8FD4-C8B36B744303
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q9382-6843d56e-4ed6-1fd6-1a24-f3d738e90bc3
+        rdf:type  wikibase:Statement ;
+        ps:P361   wd:Q28015726 .
+
+wd:Q9382  rdf:type  wikibase:Item ;
+        rdfs:label  "urinary bladder"@en ;
+        p:P31       wds:Q9382-7AEA96D8-9B73-4FEE-B6DD-01BA1670DB7C ;
+        p:P361      wds:Q9382-0013694b-4c03-f209-aac1-6784c1b202f6 , wds:Q9382-6843d56e-4ed6-1fd6-1a24-f3d738e90bc3 ;
+        wdt:P31     wd:Q4936952 ;
+        wdt:P361    wd:Q181100 , wd:Q28015726 .
+
+wds:Q9382-0013694b-4c03-f209-aac1-6784c1b202f6
+        rdf:type  wikibase:Statement ;
+        ps:P361   wd:Q181100 .
+
+wds:Q9382-7AEA96D8-9B73-4FEE-B6DD-01BA1670DB7C
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q4936952 .
+
+wd:Q9404  rdf:type  wikibase:Item ;
+        rdfs:label  "nervous system"@en ;
+        p:P31       wds:Q9404-D7651C5B-B4B6-4C3E-93F5-DD2DD0A6DE4A ;
+        p:P361      wds:Q9404-0b48670c-40ed-603f-eed2-23e6da0bdfac ;
+        p:P527      wds:Q9404-477f0af1-4938-9849-d82a-7badc92a9997 , wds:Q9404-7fd07723-434e-9344-1490-80f8f5fc63f5 ;
+        wdt:P31     wd:Q4936952 ;
+        wdt:P361    wd:Q23852 ;
+        wdt:P527    wd:Q47273 , wd:Q169953 .
+
+wds:Q9404-0b48670c-40ed-603f-eed2-23e6da0bdfac
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q286567 ;
+                               pr:P577  "1998-01-00T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P361              wd:Q23852 .
+
+wds:Q9404-D7651C5B-B4B6-4C3E-93F5-DD2DD0A6DE4A
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q4936952 .
+
+wds:Q9404-7fd07723-434e-9344-1490-80f8f5fc63f5
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P1323  "A14.2.00.001" ;
+                               pr:P248   wd:Q286567 ;
+                               pr:P577   "1998-01-00T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P527              wd:Q169953 .
+
+wds:Q9404-477f0af1-4938-9849-d82a-7badc92a9997
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P1323  "A14.1.00.001" ;
+                               pr:P248   wd:Q286567 ;
+                               pr:P577   "1998-01-00T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P527              wd:Q47273 .
+
+wd:Q10038  rdf:type  wikibase:Item ;
+        rdfs:label  "Desidae"@en ;
+        p:P31       wds:Q10038-B2F14493-6C56-47DF-B6D7-C9368ACF77CF ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10038-B2F14493-6C56-47DF-B6D7-C9368ACF77CF
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q10540-38D9CA03-A527-48FD-B962-AECD7ACB061B
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10540  rdf:type  wikibase:Item ;
+        rdfs:label  "Gallieniellidae"@en ;
+        p:P31       wds:Q10540-38D9CA03-A527-48FD-B962-AECD7ACB061B ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q10646  rdf:type  wikibase:Item ;
+        rdfs:label  "Miturgidae"@en ;
+        p:P31       wds:Q10646-9EF8ADD6-1161-48BE-A380-C7841FED7110 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10646-9EF8ADD6-1161-48BE-A380-C7841FED7110
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q10670-18747C9B-4E87-48DF-BD98-2985FC73654F
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10670  rdf:type  wikibase:Item ;
+        rdfs:label  "Nephilidae"@en ;
+        p:P31       wds:Q10670-18747C9B-4E87-48DF-BD98-2985FC73654F ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10856-A13F6F53-0AEE-4F0C-B1E0-9B55BB2216CD
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10856  rdf:type  wikibase:Item ;
+        rdfs:label  "pigeon"@en ;
+        p:P31       wds:Q10856-A13F6F53-0AEE-4F0C-B1E0-9B55BB2216CD ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q10872  rdf:type  wikibase:Item ;
+        rdfs:label  "Archaea"@en ;
+        p:P31       wds:Q10872-886B4121-C4EA-4A2B-8D6E-41E5695D780F ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10872-886B4121-C4EA-4A2B-8D6E-41E5695D780F
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10876  rdf:type  wikibase:Item ;
+        rdfs:label  "bacteria"@en ;
+        p:P31       wds:Q10876-C453597B-7C06-4151-98BA-2A40CA1ADA91 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10876-C453597B-7C06-4151-98BA-2A40CA1ADA91
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q10961-2C44A569-FBF3-457B-AB71-D25DBFE99309
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10961  rdf:type  wikibase:Item ;
+        rdfs:label  "Nicodamidae"@en ;
+        p:P31       wds:Q10961-2C44A569-FBF3-457B-AB71-D25DBFE99309 ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q10986  rdf:type  wikibase:Item ;
+        rdfs:label  "Penestomidae"@en ;
+        p:P31       wds:Q10986-53FD7CEB-82C9-4478-8D1A-3900D31892A4 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10986-53FD7CEB-82C9-4478-8D1A-3900D31892A4
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10995  rdf:type  wikibase:Item ;
+        rdfs:label  "Pholcidae"@en ;
+        p:P31       wds:Q10995-ED3F4566-872C-4E9A-AA6F-4A8304D3253E ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10995-ED3F4566-872C-4E9A-AA6F-4A8304D3253E
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q10997  rdf:type  wikibase:Item ;
+        rdfs:label  "Phyxelididae"@en ;
+        p:P31       wds:Q10997-620B1797-8046-4932-86EE-7A0029B84F1B ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q10997-620B1797-8046-4932-86EE-7A0029B84F1B
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q11085-9FEB8583-79FD-44E2-87DA-0823E1CA2248
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=114134" , "http://www.genome.gov/gwastudies/index.cfm?gene=SLC2A13"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18048952 .
+
+wds:Q11085-A849C44F-B574-4C3E-A4A6-F14D79A6B4D2
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943440 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=2580" , "http://www.genome.gov/gwastudies/index.cfm?gene=GAK"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18297975 .
+
+wds:Q11085-1dcccffd-4694-3527-1696-b84c9c6a50be
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000148483" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q423308 .
+
+wds:Q11085-32953999-72FD-4A10-A3AE-F1446750C0F5
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000147968" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q415752 .
+
+wds:Q11085-3DCBA143-3969-4506-AFD9-2C7FB364B2F8
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000147697" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q409761 .
+
+wds:Q11085-078D131E-5C07-4482-9AD9-6AAEBFE6DD00
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q12136 .
+
+wds:Q11085-59F75345-D9FC-43E0-A95F-96E3514C8CBF
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000022076" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q421304 .
+
+wds:Q11085-11120C46-8D90-415B-AE88-7E242A5BF862
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943545 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=1740" , "http://www.genome.gov/gwastudies/index.cfm?gene=DLG2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17914010 .
+
+wds:Q11085-888D6ABD-076A-424A-A357-05C5B45674DF
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943294 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=79780" , "http://www.genome.gov/gwastudies/index.cfm?gene=CCDC82"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18046343 .
+
+wds:Q11085-79FC767B-0470-4CD2-9E8E-6733F1E8CAE3
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943392 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=10497" , "http://www.genome.gov/gwastudies/index.cfm?gene=UNC13B"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18035435 .
+
+wds:Q11085-23FD4DFC-0AAC-46EF-97E6-63B899997BAC
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000147732" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q413581 .
+
+wds:Q11085-CA5374A0-0090-435B-A410-40481E83A058
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q29417034 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=1830" , "http://www.genome.gov/gwastudies/index.cfm?gene=DSG3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q3011469 .
+
+wds:Q11085-BE137008-EE2E-45D3-BA4D-596684817107
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q44741730 ;
+                               pr:P699  "DOID:14330" ;
+                               pr:P813  "2017-12-05T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P279              wd:Q16963368 .
+
+wds:Q11085-404F223D-66CF-4679-99E8-058E94086932
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000022086" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q420590 .
+
+wds:Q11085-24598D2B-796B-4A35-B0BD-126D2E59D98C
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q29417034 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=22848" , "http://www.genome.gov/gwastudies/index.cfm?gene=AAK1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18036533 .
+
+wds:Q11085-6D1B0888-1A3B-4054-B316-944C2FB033D7
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000148629" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q416444 .
+
+wds:Q11085-EC7B07A3-35BC-41EC-B895-D9197DB5BF53
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000148044" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q2991856 .
+
+wds:Q11085-0F16B9DE-F65F-4805-945D-84958520C235
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=154043" , "http://www.genome.gov/gwastudies/index.cfm?gene=CNKSR3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18052256 .
+
+wds:Q11085-46FEF1FA-6399-45DB-B9F6-9199D02B6730
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=63977" , "http://www.genome.gov/gwastudies/index.cfm?gene=PRDM15"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18045528 .
+
+wds:Q11085-75DFC24B-B8EE-4156-9A86-C400B2CBCD45
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=1609" , "http://www.genome.gov/gwastudies/index.cfm?gene=DGKQ"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17912742 .
+
+wds:Q11085-08D69582-6505-44B5-8EF7-307F8AC8E41B
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=6456" , "http://www.genome.gov/gwastudies/index.cfm?gene=SH3GL2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18031477 .
+
+wds:Q11085-91AD5CCC-76A7-4175-9736-A8D2ADFE8868
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=683" , "http://www.genome.gov/gwastudies/index.cfm?gene=BST1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17853626 .
+
+wds:Q11085-B33B3B15-375B-492F-9479-C8A388D8BE05
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24646654 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=8516" , "http://www.genome.gov/gwastudies/index.cfm?gene=ITGA8"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18033064 .
+
+wds:Q11085-B3A0CEA6-AE90-4B62-8474-0EFB17F5D2EB
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24535861 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=9037" , "http://www.genome.gov/gwastudies/index.cfm?gene=SEMA5A"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18033776 .
+
+wd:Q11085  rdf:type  wikibase:Item ;
+        rdfs:label  "Parkinson's disease"@en ;
+        p:P2176     wds:Q11085-404F223D-66CF-4679-99E8-058E94086932 , wds:Q11085-3DCBA143-3969-4506-AFD9-2C7FB364B2F8 , wds:Q11085-A00594B6-B324-40C1-BF5A-20EED2116961 , wds:Q11085-6D1B0888-1A3B-4054-B316-944C2FB033D7 , wds:Q11085-59F75345-D9FC-43E0-A95F-96E3514C8CBF , wds:Q11085-EC7B07A3-35BC-41EC-B895-D9197DB5BF53 , wds:Q11085-23FD4DFC-0AAC-46EF-97E6-63B899997BAC , wds:Q11085-8CA8370C-C750-42E0-AD54-72F8BD97E448 , wds:Q11085-32953999-72FD-4A10-A3AE-F1446750C0F5 , wds:Q11085-1dcccffd-4694-3527-1696-b84c9c6a50be , wds:Q11085-111308F6-0646-4075-B4B4-441C10726C8E , wds:Q11085-125A0364-D65A-4BFA-AA10-8AA599937CAB , wds:Q11085-c562d92b-41d0-61ee-d6ee-92babd9b1618 ;
+        p:P2293     wds:Q11085-0F16B9DE-F65F-4805-945D-84958520C235 , wds:Q11085-9FEB8583-79FD-44E2-87DA-0823E1CA2248 , wds:Q11085-91AD5CCC-76A7-4175-9736-A8D2ADFE8868 , wds:Q11085-B33B3B15-375B-492F-9479-C8A388D8BE05 , wds:Q11085-CA5374A0-0090-435B-A410-40481E83A058 , wds:Q11085-75DFC24B-B8EE-4156-9A86-C400B2CBCD45 , wds:Q11085-980C8968-FEDA-4C75-BA48-FE5C8B8200A3 , wds:Q11085-B163592F-6E19-4F4D-BBCB-219964D08969 , wds:Q11085-64FC9DBD-BA2B-49BF-BE64-6B34051568B4 , wds:Q11085-08D69582-6505-44B5-8EF7-307F8AC8E41B , wds:Q11085-DAE6586A-EF01-45DA-945F-3A10205990E4 , wds:Q11085-D8C80402-ACB7-4F65-A181-24D5646DC587 , wds:Q11085-1F9A837B-62E4-4264-9AD7-D9E1D8633B22 , wds:Q11085-9729884D-EB41-42D8-8E5D-EE257D1CD526 , wds:Q11085-888D6ABD-076A-424A-A357-05C5B45674DF , wds:Q11085-ABF24778-A8CE-4724-99AF-AAE8F2904BEF , wds:Q11085-24598D2B-796B-4A35-B0BD-126D2E59D98C , wds:Q11085-C3A5EE90-94A1-4AB4-8194-3D410E722D6A , wds:Q11085-ADDA637B-6443-428F-B4A1-4406D0E8A26F , wds:Q11085-79FC767B-0470-4CD2-9E8E-6733F1E8CAE3 , wds:Q11085-427C2471-9774-45DC-9081-21E29F51A139 , wds:Q11085-DCBC216A-7858-480E-9C7A-7470E170CD74 , wds:Q11085-A849C44F-B574-4C3E-A4A6-F14D79A6B4D2 , wds:Q11085-46FEF1FA-6399-45DB-B9F6-9199D02B6730 , wds:Q11085-B3A0CEA6-AE90-4B62-8474-0EFB17F5D2EB , wds:Q11085-11120C46-8D90-415B-AE88-7E242A5BF862 ;
+        p:P279      wds:Q11085-BE137008-EE2E-45D3-BA4D-596684817107 ;
+        p:P31       wds:Q11085-078D131E-5C07-4482-9AD9-6AAEBFE6DD00 ;
+        wdt:P2176   wd:Q415752 , wd:Q414914 , wd:Q300989 , wd:Q420590 , wd:Q413840 , wd:Q416444 , wd:Q2991856 , wd:Q423308 , wd:Q409761 , wd:Q421304 , wd:Q414225 , wd:Q413581 , wd:Q402633 ;
+        wdt:P2293   wd:Q15331136 , wd:Q5145896 , wd:Q18033776 , wd:Q17853626 , wd:Q14862268 , wd:Q18031133 , wd:Q18048952 , wd:Q18036533 , wd:Q18035435 , wd:Q18053750 , wd:Q14865307 , wd:Q14904874 , wd:Q17912742 , wd:Q18031477 , wd:Q14860336 , wd:Q18033064 , wd:Q18036598 , wd:Q17914010 , wd:Q18049353 , wd:Q18052210 , wd:Q18297975 , wd:Q18045528 , wd:Q18032360 , wd:Q18046343 , wd:Q3011469 , wd:Q18052256 ;
+        wdt:P279    wd:Q16963368 ;
+        wdt:P31     wd:Q12136 .
+
+wds:Q11085-125A0364-D65A-4BFA-AA10-8AA599937CAB
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000148551" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q413840 .
+
+wds:Q11085-ABF24778-A8CE-4724-99AF-AAE8F2904BEF
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943408 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=119467" , "http://www.genome.gov/gwastudies/index.cfm?gene=CLRN3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18049353 .
+
+wds:Q11085-980C8968-FEDA-4C75-BA48-FE5C8B8200A3
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943392 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=4905" , "http://www.genome.gov/gwastudies/index.cfm?gene=NSF"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14860336 .
+
+wds:Q11085-c562d92b-41d0-61ee-d6ee-92babd9b1618
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000146151" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q300989 .
+
+wds:Q11085-8CA8370C-C750-42E0-AD54-72F8BD97E448
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000146299" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q414225 .
+
+wds:Q11085-B163592F-6E19-4F4D-BBCB-219964D08969
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q29417095 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=4137" , "http://www.genome.gov/gwastudies/index.cfm?gene=MAPT"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14865307 .
+
+wds:Q11085-ADDA637B-6443-428F-B4A1-4406D0E8A26F
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943294 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=1305" , "http://www.genome.gov/gwastudies/index.cfm?gene=COL13A1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q5145896 .
+
+wds:Q11085-1F9A837B-62E4-4264-9AD7-D9E1D8633B22
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q29417106 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=120892" , "http://www.genome.gov/gwastudies/index.cfm?gene=LRRK2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q15331136 .
+
+wds:Q11085-C3A5EE90-94A1-4AB4-8194-3D410E722D6A
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q29417034 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=22926" , "http://www.genome.gov/gwastudies/index.cfm?gene=ATF6"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18036598 .
+
+wds:Q11085-DAE6586A-EF01-45DA-945F-3A10205990E4
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24596763 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=6622" , "http://www.genome.gov/gwastudies/index.cfm?gene=SNCA"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14862268 .
+
+wds:Q11085-DCBC216A-7858-480E-9C7A-7470E170CD74
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=7473" , "http://www.genome.gov/gwastudies/index.cfm?gene=WNT3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18032360 .
+
+wds:Q11085-64FC9DBD-BA2B-49BF-BE64-6B34051568B4
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28262863 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=6014" , "http://www.genome.gov/gwastudies/index.cfm?gene=RIT2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18031133 .
+
+wds:Q11085-D8C80402-ACB7-4F65-A181-24D5646DC587
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q21144949 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=254428" , "http://www.genome.gov/gwastudies/index.cfm?gene=SLC41A1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18053750 .
+
+wds:Q11085-111308F6-0646-4075-B4B4-441C10726C8E
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000147728" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q414914 .
+
+wds:Q11085-9729884D-EB41-42D8-8E5D-EE257D1CD526
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943408 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=152816" , "http://www.genome.gov/gwastudies/index.cfm?gene=C4orf26"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18052210 .
+
+wds:Q11085-A00594B6-B324-40C1-BF5A-20EED2116961
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000148014" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q402633 .
+
+wds:Q11085-427C2471-9774-45DC-9081-21E29F51A139
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943440 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_14330&ncbiId=3122" , "http://www.genome.gov/gwastudies/index.cfm?gene=HLA-DRA"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14904874 .
+
+wd:Q11719  rdf:type  wikibase:Item ;
+        rdfs:label  "Sinopimoidae"@en ;
+        p:P31       wds:Q11719-2140B104-168D-4D76-833A-FD2A3AD7E03E ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q11719-2140B104-168D-4D76-833A-FD2A3AD7E03E
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q11728  rdf:type  wikibase:Item ;
+        rdfs:label  "Synaphridae"@en ;
+        p:P31       wds:Q11728-4DA8DD14-5D49-4744-8CAF-18A74C723321 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q11728-4DA8DD14-5D49-4744-8CAF-18A74C723321
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q11731  rdf:type  wikibase:Item ;
+        rdfs:label  "Synotaxidae"@en ;
+        p:P31       wds:Q11731-7465FF2A-9C48-457C-B908-0D1CFED3D7FE ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q11731-7465FF2A-9C48-457C-B908-0D1CFED3D7FE
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q11990-3455a2b2-4120-81c6-1b0d-ff1c75263487
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P143  wd:Q22230760 ;
+                               pr:P248  wd:Q135085 ;
+                               pr:P813  "2017-08-01T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P279              wd:Q2996394 .
+
+wds:Q11990-ACC240B0-E655-4BA9-A585-9CE7AB46BC3A
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P143  wd:Q22230760 ;
+                               pr:P248  wd:Q135085 ;
+                               pr:P813  "2017-08-01T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P527              wd:Q14885910 .
+
+wd:Q11990  rdf:type  wikibase:Item ;
+        rdfs:label  "reproduction"@en ;
+        p:P279      wds:Q11990-3455a2b2-4120-81c6-1b0d-ff1c75263487 ;
+        p:P31       wds:Q11990-3ED30A4C-8422-4FC9-A848-D2440B99E115 ;
+        p:P527      wds:Q11990-ACC240B0-E655-4BA9-A585-9CE7AB46BC3A ;
+        wdt:P279    wd:Q2996394 ;
+        wdt:P31     wd:Q2996394 ;
+        wdt:P527    wd:Q14885910 .
+
+wds:Q11990-3ED30A4C-8422-4FC9-A848-D2440B99E115
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q2996394 .
+
+wds:Q12004-D9FD808B-D9D6-4440-811D-00CC547E7904
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q12004  rdf:type  wikibase:Item ;
+        rdfs:label  "Quercus"@en ;
+        p:P31       wds:Q12004-D9FD808B-D9D6-4440-811D-00CC547E7904 ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q12064  rdf:type  wikibase:Item ;
+        rdfs:label  "Zorocratid spider"@en ;
+        p:P31       wds:Q12064-6B2A5112-D220-4940-BE0E-01F628D083E9 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q12064-6B2A5112-D220-4940-BE0E-01F628D083E9
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q12067  rdf:type  wikibase:Item ;
+        rdfs:label  "Zoropsidae"@en ;
+        p:P31       wds:Q12067-20A3B86C-EE90-4B7C-9077-203E392062E0 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q12067-20A3B86C-EE90-4B7C-9077-203E392062E0
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q12099  rdf:type  wikibase:Item ;
+        rdfs:label  "Secale cereale"@en ;
+        p:P31       wds:Q12099-13FD15C3-7FC0-46BB-9168-816504C13011 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q12099-13FD15C3-7FC0-46BB-9168-816504C13011
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q12104-4F4C2554-79F3-433A-B6C3-EF10D40CFD9F
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q12104  rdf:type  wikibase:Item ;
+        rdfs:label  "Avena sativa"@en ;
+        p:P31       wds:Q12104-4F4C2554-79F3-433A-B6C3-EF10D40CFD9F ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q12206  rdf:type  wikibase:Item ;
+        rdfs:label  "diabetes mellitus"@en ;
+        p:P2176     wds:Q12206-629BFB94-86C5-45A2-A1C2-CE8274FA0CF9 ;
+        p:P279      wds:Q12206-2d919cb3-40b7-ba92-ffb7-eb0301c5b2ae , wds:Q12206-87DF6A00-5815-4C33-BCB7-6B9AD42CE6EE ;
+        p:P31       wds:Q12206-44ACE969-7A8D-4174-B889-3D6E629DD44B ;
+        wdt:P2176   wd:Q2329715 ;
+        wdt:P279    wd:Q15974799 , wd:Q18556224 ;
+        wdt:P31     wd:Q12136 .
+
+wds:Q12206-87DF6A00-5815-4C33-BCB7-6B9AD42CE6EE
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q44741730 ;
+                               pr:P699  "DOID:9351" ;
+                               pr:P813  "2017-12-05T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P279              wd:Q18556224 .
+
+wds:Q12206-44ACE969-7A8D-4174-B889-3D6E629DD44B
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q12136 .
+
+wds:Q12206-629BFB94-86C5-45A2-A1C2-CE8274FA0CF9
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P2115  "N0000148263" ;
+                               pr:P248   wd:Q21008030 ;
+                               pr:P407   wd:Q1860 ;
+                               pr:P813   "2016-12-13T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P2176             wd:Q2329715 .
+
+wds:Q12206-2d919cb3-40b7-ba92-ffb7-eb0301c5b2ae
+        rdf:type  wikibase:Statement ;
+        ps:P279   wd:Q15974799 .
+
+wds:Q12214-8B80A9EB-8074-4307-807C-0E93AE970CC2
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q44741730 ;
+                               pr:P699  "DOID:8736" ;
+                               pr:P813  "2017-12-05T00:00:00Z"^^xsd:dateTime
+                             ] ;
+        ps:P279              wd:Q1928978 .
+
+wds:Q12214-6FCAE90D-339A-4251-8002-0A93E0E0B223
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=51334" , "http://www.genome.gov/gwastudies/index.cfm?gene=PRR16"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18040224 .
+
+wds:Q12214-824AF780-54DC-4EA2-B5FF-C0B711A4EE56
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=10396" , "http://www.genome.gov/gwastudies/index.cfm?gene=ATP8A1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18035351 .
+
+wds:Q12214-5608E8A6-0ABD-4115-9D0D-F0058F68238C
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=6564" , "http://www.genome.gov/gwastudies/index.cfm?gene=SLC15A1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18031564 .
+
+wds:Q12214-C15D43F5-28BD-4457-AD59-4869590FAA47
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=55799" , "http://www.genome.gov/gwastudies/index.cfm?gene=CACNA2D3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18042064 .
+
+wds:Q12214-1f3902e5-4aaa-1003-f20a-ea1e437bc7e7
+        rdf:type  wikibase:Statement ;
+        ps:P828   wd:Q11877169 .
+
+wds:Q12214-A6CF7510-AE29-46F0-8B17-15BC0C147467
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=613" , "http://www.genome.gov/gwastudies/index.cfm?gene=BCR"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18292821 .
+
+wds:Q12214-08D2B413-3311-4CBB-B085-144F21184E41
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=1278" , "http://www.genome.gov/gwastudies/index.cfm?gene=COL1A2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q15317046 .
+
+wds:Q12214-43D37EE5-55CE-4DB1-A8AA-0457F6C41BD9
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=10890" , "http://www.genome.gov/gwastudies/index.cfm?gene=RAB10"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18035921 .
+
+wds:Q12214-DC9C7D0F-9367-4999-9D42-869769860D65
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=51552" , "http://www.genome.gov/gwastudies/index.cfm?gene=RAB14"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18040387 .
+
+wds:Q12214-A5343E7E-C0F3-47A9-8CC1-E0EBDF63AAFA
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=10046" , "http://www.genome.gov/gwastudies/index.cfm?gene=MAMLD1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q20763585 .
+
+wds:Q12214-2DF33122-825D-4245-81C2-B5A7ED0FD748
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=8914" , "http://www.genome.gov/gwastudies/index.cfm?gene=TIMELESS"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18033532 .
+
+wds:Q12214-C3806802-8047-4816-A7F6-58B676FF6057
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=861" , "http://www.genome.gov/gwastudies/index.cfm?gene=RUNX1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q15320451 .
+
+wds:Q12214-93724867-F82D-4FF2-9C00-F5EEE05A1E28
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=440279" , "http://www.genome.gov/gwastudies/index.cfm?gene=UNC13C"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18058371 .
+
+wds:Q12214-93138cd6-4150-3e3f-0b31-fabce61ff691
+        rdf:type  wikibase:Statement ;
+        ps:P279   wd:Q18975241 .
+
+wds:Q12214-99BE1C5E-817C-4AE7-ADF5-56CE28302653
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=1780" , "http://www.genome.gov/gwastudies/index.cfm?gene=DYNC1I1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q248215 .
+
+wds:Q12214-2CFB7B15-682C-483B-9C8F-4460217A4094
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=64388" , "http://www.genome.gov/gwastudies/index.cfm?gene=GREM2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18045649 .
+
+wds:Q12214-B032BA41-159B-4EE6-8C38-F5EEB37676ED
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=54828" , "http://www.genome.gov/gwastudies/index.cfm?gene=BCAS3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18041288 .
+
+wds:Q12214-E1D3E14B-9A6D-4788-A778-D1D3DE405007
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=747" , "http://www.genome.gov/gwastudies/index.cfm?gene=DAGLA"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17854281 .
+
+wds:Q12214-1B87F2F5-FEB7-408C-B07B-589F59F25491
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=57835" , "http://www.genome.gov/gwastudies/index.cfm?gene=SLC4A5"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18044722 .
+
+wds:Q12214-1F9E170F-158C-40C7-8958-E402773910EF
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=4052" , "http://www.genome.gov/gwastudies/index.cfm?gene=LTBP1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18028692 .
+
+wds:Q12214-F342F26E-218C-4897-BF5C-61338B866ED1
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=4331" , "http://www.genome.gov/gwastudies/index.cfm?gene=MNAT1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18029227 .
+
+wds:Q12214-69678501-6C31-4DE9-A342-225344DCE509
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=55567" , "http://www.genome.gov/gwastudies/index.cfm?gene=DNAH3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18041864 .
+
+wds:Q12214-A76837FE-B46C-4949-B6ED-6FE054965587
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=6446" , "http://www.genome.gov/gwastudies/index.cfm?gene=SGK1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18031469 .
+
+wds:Q12214-105B636B-AB22-4F1F-A543-305780221F87
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=91869" , "http://www.genome.gov/gwastudies/index.cfm?gene=RFT1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18048572 .
+
+wds:Q12214-3B72B229-2005-44EB-93BA-BADCBC92AF0A
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=116143" , "http://www.genome.gov/gwastudies/index.cfm?gene=WDR92"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18049201 .
+
+wds:Q12214-86F4C500-11AD-49BA-A667-8F5254B82A55
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=114786" , "http://www.genome.gov/gwastudies/index.cfm?gene=XKR4"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18049058 .
+
+wds:Q12214-77986BDA-7852-497D-B726-45B9835C77DC
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=1558" , "http://www.genome.gov/gwastudies/index.cfm?gene=CYP2C8"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14916190 .
+
+wds:Q12214-EEDE3443-61D4-4AED-B431-CB349E7357FE
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=56907" , "http://www.genome.gov/gwastudies/index.cfm?gene=SPIRE1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18042575 .
+
+wds:Q12214-B682CB0A-2967-4614-83B2-98A01C47D453
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=3568" , "http://www.genome.gov/gwastudies/index.cfm?gene=IL5RA"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18027833 .
+
+wds:Q12214-B57FA6D8-E2AF-4B91-AC36-28DA2514987F
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=64478" , "http://www.genome.gov/gwastudies/index.cfm?gene=CSMD1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18045682 .
+
+wds:Q12214-CB50FEEB-6F5C-4D42-BA73-1085DE1F850F
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=79823" , "http://www.genome.gov/gwastudies/index.cfm?gene=CAMKMT"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18046382 .
+
+wds:Q12214-CBFA1294-2323-47D7-A8E0-48A05CC794C7
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=5588" , "http://www.genome.gov/gwastudies/index.cfm?gene=PRKCQ"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18030780 .
+
+wds:Q12214-1E39BB3F-9F0E-4206-AB58-77E642D7D926
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=83875" , "http://www.genome.gov/gwastudies/index.cfm?gene=BCO2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18047303 .
+
+wds:Q12214-590520E9-5A76-4339-8431-B8F5EC034111
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=5144" , "http://www.genome.gov/gwastudies/index.cfm?gene=PDE4D"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18030409 .
+
+wds:Q12214-EC5EB7DA-AC69-4D3F-B147-B86B01BFB238
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=283078" , "http://www.genome.gov/gwastudies/index.cfm?gene=MKX"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18054056 .
+
+wds:Q12214-59C9AE9F-10D1-44A4-8D07-069F569DC9AC
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=2676" , "http://www.genome.gov/gwastudies/index.cfm?gene=GFRA3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18025811 .
+
+wds:Q12214-53A2A38A-1D7F-4EDD-B725-6059A69D185C
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q12136 .
+
+wds:Q12214-FF038C4A-7408-4878-9128-678A7E69054E
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=54798" , "http://www.genome.gov/gwastudies/index.cfm?gene=DCHS2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18041263 .
+
+wds:Q12214-49AFDDAF-715F-4666-9241-971E6D112AB7
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=139411" , "http://www.genome.gov/gwastudies/index.cfm?gene=PTCHD1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18050771 .
+
+wds:Q12214-0DB5455F-1E27-43C5-9B0C-C903A52ED98C
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-09-13T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "http://chibi.ubc.ca/Gemma/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=1600" , "http://www.genome.gov/gwastudies/index.cfm?gene=DAB1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14916487 .
+
+wds:Q12214-9B8DF5C4-8B39-41A1-92CA-F36977484C76
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=441024" , "http://www.genome.gov/gwastudies/index.cfm?gene=MTHFD2L"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18058473 .
+
+wds:Q12214-A7B90221-9447-40BD-8AFE-9F6EC56F6FAC
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=1612" , "http://www.genome.gov/gwastudies/index.cfm?gene=DAPK1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17912763 .
+
+wds:Q12214-4C25B98E-D597-463F-82B7-2479178DA19D
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=5251" , "http://www.genome.gov/gwastudies/index.cfm?gene=PHEX"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q14913440 .
+
+wds:Q12214-EE033A55-DDA5-4FE4-AA3B-F3DF0822389C
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=9462" , "http://www.genome.gov/gwastudies/index.cfm?gene=RASAL2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18034286 .
+
+wds:Q12214-189F1194-73FB-4225-8881-0BAC67B57649
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=340267" , "http://www.genome.gov/gwastudies/index.cfm?gene=COL28A1"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18055395 .
+
+wd:Q12214  rdf:type  wikibase:Item ;
+        rdfs:label  "smallpox"@en ;
+        p:P2293     wds:Q12214-2CFB7B15-682C-483B-9C8F-4460217A4094 , wds:Q12214-7B7D2C39-45B7-4151-A0A0-51D52BEDFCD7 , wds:Q12214-C3806802-8047-4816-A7F6-58B676FF6057 , wds:Q12214-F168C4C2-B167-4AD4-99E4-2B6743B4FF4B , wds:Q12214-08B0BD25-AD38-4952-960B-655F52FCB630 , wds:Q12214-1E39BB3F-9F0E-4206-AB58-77E642D7D926 , wds:Q12214-FF038C4A-7408-4878-9128-678A7E69054E , wds:Q12214-08D2B413-3311-4CBB-B085-144F21184E41 , wds:Q12214-EC5EB7DA-AC69-4D3F-B147-B86B01BFB238 , wds:Q12214-99BE1C5E-817C-4AE7-ADF5-56CE28302653 , wds:Q12214-CF6F802C-8432-43A1-9833-CC5911B41F82 , wds:Q12214-0DB5455F-1E27-43C5-9B0C-C903A52ED98C , wds:Q12214-3B72B229-2005-44EB-93BA-BADCBC92AF0A , wds:Q12214-59C9AE9F-10D1-44A4-8D07-069F569DC9AC , wds:Q12214-C15D43F5-28BD-4457-AD59-4869590FAA47 , wds:Q12214-6FCAE90D-339A-4251-8002-0A93E0E0B223 , wds:Q12214-9B8DF5C4-8B39-41A1-92CA-F36977484C76 , wds:Q12214-1F65FAB7-6BC7-45C5-ABB0-891BF67606AF , wds:Q12214-105B636B-AB22-4F1F-A543-305780221F87 , wds:Q12214-43D37EE5-55CE-4DB1-A8AA-0457F6C41BD9 , wds:Q12214-189F1194-73FB-4225-8881-0BAC67B57649 , wds:Q12214-49AFDDAF-715F-4666-9241-971E6D112AB7 , wds:Q12214-DC9C7D0F-9367-4999-9D42-869769860D65 , wds:Q12214-CB50FEEB-6F5C-4D42-BA73-1085DE1F850F , wds:Q12214-6AD8DC24-DD22-4E7F-8B5A-3EDEB7987615 , wds:Q12214-B57FA6D8-E2AF-4B91-AC36-28DA2514987F , wds:Q12214-590520E9-5A76-4339-8431-B8F5EC034111 , wds:Q12214-EEDE3443-61D4-4AED-B431-CB349E7357FE , wds:Q12214-93724867-F82D-4FF2-9C00-F5EEE05A1E28 , wds:Q12214-A7B90221-9447-40BD-8AFE-9F6EC56F6FAC , wds:Q12214-C275702A-B11D-4118-A11A-19A6201F4101 , wds:Q12214-1B87F2F5-FEB7-408C-B07B-589F59F25491 , wds:Q12214-86F4C500-11AD-49BA-A667-8F5254B82A55 , wds:Q12214-7648A539-F70B-4F09-A681-4D093BB447B9 , wds:Q12214-838F9BCF-5831-46F9-934E-116A08C4CFC6 , wds:Q12214-B8CD5196-E027-4D5A-81A0-B0513D7F7156 , wds:Q12214-B682CB0A-2967-4614-83B2-98A01C47D453 , wds:Q12214-DA15981A-12C9-4AEF-8B99-4B00D44F5D98 , wds:Q12214-824AF780-54DC-4EA2-B5FF-C0B711A4EE56 , wds:Q12214-77986BDA-7852-497D-B726-45B9835C77DC , wds:Q12214-ABD9B921-0958-4E1C-BC4C-885E6A93DF3C , wds:Q12214-F342F26E-218C-4897-BF5C-61338B866ED1 , wds:Q12214-EE033A55-DDA5-4FE4-AA3B-F3DF0822389C , wds:Q12214-5608E8A6-0ABD-4115-9D0D-F0058F68238C , wds:Q12214-4C25B98E-D597-463F-82B7-2479178DA19D , wds:Q12214-B032BA41-159B-4EE6-8C38-F5EEB37676ED , wds:Q12214-A5343E7E-C0F3-47A9-8CC1-E0EBDF63AAFA , wds:Q12214-CBFA1294-2323-47D7-A8E0-48A05CC794C7 , wds:Q12214-B5D634E3-4C5E-4F4A-93C2-C061255FC3DC , wds:Q12214-2DF33122-825D-4245-81C2-B5A7ED0FD748 , wds:Q12214-69678501-6C31-4DE9-A342-225344DCE509 , wds:Q12214-296D42AF-80B1-4736-87A9-1E9CDA8E387A , wds:Q12214-A6CF7510-AE29-46F0-8B17-15BC0C147467 , wds:Q12214-A76837FE-B46C-4949-B6ED-6FE054965587 , wds:Q12214-1F9E170F-158C-40C7-8958-E402773910EF , wds:Q12214-E1D3E14B-9A6D-4788-A778-D1D3DE405007 ;
+        p:P279      wds:Q12214-8B80A9EB-8074-4307-807C-0E93AE970CC2 , wds:Q12214-93138cd6-4150-3e3f-0b31-fabce61ff691 ;
+        p:P31       wds:Q12214-53A2A38A-1D7F-4EDD-B725-6059A69D185C ;
+        p:P828      wds:Q12214-1f3902e5-4aaa-1003-f20a-ea1e437bc7e7 ;
+        wdt:P2293   wd:Q18028644 , wd:Q18031469 , wd:Q18041263 , wd:Q18034286 , wd:Q18042575 , wd:Q18044722 , wd:Q18040387 , wd:Q18040213 , wd:Q18046382 , wd:Q18035921 , wd:Q18058473 , wd:Q14913440 , wd:Q18040744 , wd:Q18028692 , wd:Q18048572 , wd:Q18033532 , wd:Q17848770 , wd:Q18050771 , wd:Q18042064 , wd:Q18040393 , wd:Q17854281 , wd:Q18052189 , wd:Q18028156 , wd:Q18041212 , wd:Q17912763 , wd:Q18045682 , wd:Q18046242 , wd:Q18026519 , wd:Q18058371 , wd:Q248215 , wd:Q18041864 , wd:Q14916487 , wd:Q18041288 , wd:Q18030780 , wd:Q18049201 , wd:Q15317046 , wd:Q18027833 , wd:Q18032255 , wd:Q18031564 , wd:Q18036562 , wd:Q18292821 , wd:Q20763585 , wd:Q18025811 , wd:Q18030409 , wd:Q18029227 , wd:Q18055395 , wd:Q17907898 , wd:Q18045649 , wd:Q18040224 , wd:Q18036632 , wd:Q18054056 , wd:Q18035351 , wd:Q18047303 , wd:Q14916190 , wd:Q18049058 , wd:Q15320451 ;
+        wdt:P279    wd:Q1928978 , wd:Q18975241 ;
+        wdt:P31     wd:Q12136 ;
+        wdt:P828    wd:Q11877169 .
+
+wds:Q12214-CF6F802C-8432-43A1-9833-CC5911B41F82
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=53942" , "http://www.genome.gov/gwastudies/index.cfm?gene=CNTN5"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18040744 .
+
+wds:Q12214-ABD9B921-0958-4E1C-BC4C-885E6A93DF3C
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=152485" , "http://www.genome.gov/gwastudies/index.cfm?gene=ZNF827"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18052189 .
+
+wds:Q12214-B8CD5196-E027-4D5A-81A0-B0513D7F7156
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=7322" , "http://www.genome.gov/gwastudies/index.cfm?gene=UBE2D2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18032255 .
+
+wds:Q12214-F168C4C2-B167-4AD4-99E4-2B6743B4FF4B
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=1286" , "http://www.genome.gov/gwastudies/index.cfm?gene=COL4A4"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17907898 .
+
+wds:Q12214-838F9BCF-5831-46F9-934E-116A08C4CFC6
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=2904" , "http://www.genome.gov/gwastudies/index.cfm?gene=GRIN2B"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18026519 .
+
+wds:Q12214-C275702A-B11D-4118-A11A-19A6201F4101
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=79658" , "http://www.genome.gov/gwastudies/index.cfm?gene=ARHGAP10"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18046242 .
+
+wds:Q12214-296D42AF-80B1-4736-87A9-1E9CDA8E387A
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=54716" , "http://www.genome.gov/gwastudies/index.cfm?gene=SLC6A20"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18041212 .
+
+wds:Q12214-B5D634E3-4C5E-4F4A-93C2-C061255FC3DC
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=51320" , "http://www.genome.gov/gwastudies/index.cfm?gene=MEX3C"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18040213 .
+
+wds:Q12214-DA15981A-12C9-4AEF-8B99-4B00D44F5D98
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=4026" , "http://www.genome.gov/gwastudies/index.cfm?gene=LPP"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18028644 .
+
+wds:Q12214-7B7D2C39-45B7-4151-A0A0-51D52BEDFCD7
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=640" , "http://www.genome.gov/gwastudies/index.cfm?gene=BLK"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q17848770 .
+
+wds:Q12214-7648A539-F70B-4F09-A681-4D093BB447B9
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=3752" , "http://www.genome.gov/gwastudies/index.cfm?gene=KCND3"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18028156 .
+
+wds:Q12214-08B0BD25-AD38-4952-960B-655F52FCB630
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=22982" , "http://www.genome.gov/gwastudies/index.cfm?gene=DIP2C"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18036632 .
+
+wds:Q12214-6AD8DC24-DD22-4E7F-8B5A-3EDEB7987615
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q28943252 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=51560" , "http://www.genome.gov/gwastudies/index.cfm?gene=RAB6B"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18040393 .
+
+wds:Q12214-1F65FAB7-6BC7-45C5-ABB0-891BF67606AF
+        rdf:type             wikibase:Statement ;
+        prov:wasDerivedFrom  [ pr:P248  wd:Q22330995 , wd:Q24612100 ;
+                               pr:P813  "2017-11-16T00:00:00Z"^^xsd:dateTime ;
+                               pr:P854  "https://gemma.msl.ubc.ca/phenotypes.html?phenotypeUrlId=DOID_8736&ncbiId=22882" , "http://www.genome.gov/gwastudies/index.cfm?gene=ZHX2"
+                             ] ;
+        pq:P459              wd:Q1098876 , wd:Q23190853 ;
+        ps:P2293             wd:Q18036562 .
+
+wds:Q13147-dbcf5c35-4333-a91a-657f-25500ba018ad
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q1148039 .
+
+wds:Q13147-CB965958-B8CD-4ACA-AA7A-8E7358B34FDF
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q4936952 .
+
+wds:Q13147-8b1c61c6-42b4-9560-60cf-56ace94745db
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q613203 .
+
+wd:Q13147  rdf:type  wikibase:Item ;
+        rdfs:label  "skull"@en ;
+        p:P31       wds:Q13147-CB965958-B8CD-4ACA-AA7A-8E7358B34FDF ;
+        p:P527      wds:Q13147-8b1c61c6-42b4-9560-60cf-56ace94745db , wds:Q13147-12857f2c-47e4-e0f1-7dce-5cf1525eecf4 , wds:Q13147-dbcf5c35-4333-a91a-657f-25500ba018ad , wds:Q13147-2c711326-4988-9786-de5a-3fc8ab2bcf33 , wds:Q13147-7d6d93c5-4d92-4feb-c797-e71b14572cd0 , wds:Q13147-3692d145-405e-a2b6-3e6e-a8e714f02c89 ;
+        wdt:P31     wd:Q4936952 ;
+        wdt:P527    wd:Q613203 , wd:Q1068553 , wd:Q28947902 , wd:Q5283631 , wd:Q1423729 , wd:Q1148039 .
+
+wds:Q13147-12857f2c-47e4-e0f1-7dce-5cf1525eecf4
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q1068553 .
+
+wds:Q13147-2c711326-4988-9786-de5a-3fc8ab2bcf33
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q1423729 .
+
+wds:Q13147-3692d145-405e-a2b6-3e6e-a8e714f02c89
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q28947902 .
+
+wds:Q13147-7d6d93c5-4d92-4feb-c797-e71b14572cd0
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q5283631 .
+
+wds:Q13158-2A0842F2-1982-4E87-BC2E-CF0298A25BAC
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q13158  rdf:type  wikibase:Item ;
+        rdfs:label  "Fragaria ×ananassa"@en ;
+        p:P31       wds:Q13158-2A0842F2-1982-4E87-BC2E-CF0298A25BAC ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q13182-02334CEB-0E25-47F6-9A41-AED109F0A38E
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q13182  rdf:type  wikibase:Item ;
+        rdfs:label  "Lychee"@en ;
+        p:P31       wds:Q13182-02334CEB-0E25-47F6-9A41-AED109F0A38E ;
+        wdt:P31     wd:Q16521 .
+
+wd:Q14443  rdf:type  wikibase:Item ;
+        rdfs:label  "mahi-mahi"@en ;
+        p:P31       wds:Q14443-014069AC-7FAF-4393-950A-9E82CB9B0B36 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q14443-014069AC-7FAF-4393-950A-9E82CB9B0B36
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q14677  rdf:type  wikibase:Item ;
+        rdfs:label  "Artocarpus altilis"@en ;
+        p:P31       wds:Q14677-712D67AD-6583-441E-9618-2CCFAB016C66 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q14677-712D67AD-6583-441E-9618-2CCFAB016C66
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q15277-2CD560DA-C3C2-492D-AF51-760E7D5B81F7
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q623 .
+
+wds:q15277-19A9D24B-FB12-48FE-ABE6-CE0774434449
+        rdf:type  wikibase:Statement ;
+        ps:P279   wd:Q422960 .
+
+wds:Q15277-B74602AA-823D-4D77-B59C-71BE6FA0C925
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q629 .
+
+wds:Q15277-A70AB3A8-F39B-495D-8ECA-1CE7CA57076D
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q11173 .
+
+wd:Q15277  rdf:type  wikibase:Item ;
+        rdfs:label  "adenine"@en ;
+        p:P279      wds:q15277-19A9D24B-FB12-48FE-ABE6-CE0774434449 ;
+        p:P31       wds:Q15277-A70AB3A8-F39B-495D-8ECA-1CE7CA57076D ;
+        p:P527      wds:Q15277-B74602AA-823D-4D77-B59C-71BE6FA0C925 , wds:Q15277-7941220B-0749-409E-AEF0-23AC01B7F014 , wds:Q15277-2CD560DA-C3C2-492D-AF51-760E7D5B81F7 ;
+        wdt:P279    wd:Q422960 ;
+        wdt:P31     wd:Q11173 ;
+        wdt:P527    wd:Q627 , wd:Q629 , wd:Q623 .
+
+wds:Q15277-7941220B-0749-409E-AEF0-23AC01B7F014
+        rdf:type  wikibase:Statement ;
+        ps:P527   wd:Q627 .
+
+wd:Q15872  rdf:type  wikibase:Item ;
+        rdfs:label  "Gekkonidae"@en ;
+        p:P31       wds:Q15872-F29E27F9-AD36-4799-8960-E36559D316DD ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q15872-F29E27F9-AD36-4799-8960-E36559D316DD
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q15879-2A6E2610-1DC1-45FE-B093-E59CA78E86D2
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q15879  rdf:type  wikibase:Item ;
+        rdfs:label  "lizard"@en ;
+        p:P31       wds:Q15879-2A6E2610-1DC1-45FE-B093-E59CA78E86D2 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q16364-EB1C2609-6616-41C2-AB6F-FA38506F3EB3
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q4936952 .
+
+wd:Q16364  rdf:type  wikibase:Item ;
+        rdfs:label  "throat"@en ;
+        p:P31       wds:Q16364-EB1C2609-6616-41C2-AB6F-FA38506F3EB3 ;
+        wdt:P31     wd:Q4936952 .
+
+wd:Q16392  rdf:type  wikibase:Item ;
+        rdfs:label  "isopropyl alcohol"@en ;
+        p:P31       wds:Q16392-B4845449-AFAC-4B06-B60D-3A3FD4C62002 ;
+        wdt:P31     wd:Q11173 .
+
+wds:Q16392-B4845449-AFAC-4B06-B60D-3A3FD4C62002
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q11173 .
+
+wd:Q16431  rdf:type  wikibase:Item ;
+        rdfs:label  "Solierella"@en ;
+        p:P31       wds:Q16431-21476DF6-7EE6-4D71-B6FB-3084128994A1 ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q16431-21476DF6-7EE6-4D71-B6FB-3084128994A1
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q16485-54B77F8A-2492-48D1-9AAD-C0104E6EBBC0
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q12136 .
+
+wd:Q16485  rdf:type  wikibase:Item ;
+        rdfs:label  "De Quervain's thyroiditis"@en ;
+        p:P279      wds:q16485-1c5b149c-40b0-a807-2070-ecabfc325d7a ;
+        p:P31       wds:Q16485-54B77F8A-2492-48D1-9AAD-C0104E6EBBC0 ;
+        wdt:P279    wd:Q11835644 ;
+        wdt:P31     wd:Q12136 .
+
+wds:q16485-1c5b149c-40b0-a807-2070-ecabfc325d7a
+        rdf:type  wikibase:Statement ;
+        ps:P279   wd:Q11835644 .
+
+wd:Q17170  rdf:type  wikibase:Item ;
+        rdfs:label  "Trilobita"@en ;
+        p:P31       wds:Q17170-488EAC5E-CAB2-4B99-BCFB-AE5357AF832F ;
+        wdt:P31     wd:Q16521 .
+
+wds:Q17170-488EAC5E-CAB2-4B99-BCFB-AE5357AF832F
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wds:Q17592-FA970B5B-C808-4A35-AF88-2416EEC3A149
+        rdf:type  wikibase:Statement ;
+        ps:P31    wd:Q16521 .
+
+wd:Q17592  rdf:type  wikibase:Item ;
+        rdfs:label  "ostrich"@en ;
+        p:P31       wds:Q17592-FA970B5B-C808-4A35-AF88-2416EEC3A149 ;
+        wdt:P31     wd:Q16521 .

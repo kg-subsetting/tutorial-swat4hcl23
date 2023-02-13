@@ -1,0 +1,16 @@
+prefix : <http://example.org/>
+
+:alice    :name       "Alice"   ;
+          :knows      :bob      ;
+          :worksFor   :company1 .
+:company1 :location   :loc1     ;
+          :employee   :alice    .
+:loc1     :postalCode "33007"   ;
+          :country    :Spain    .         
+:bob      :name       "Robert"  .
+:carol    :name       "Carole"  ;
+          :worksFor   :company2 .
+:company2 :employee   :carol    .
+          :location   :loc2     .
+:loc2     :postalCode "98052"   ;
+          :country    :USA      .         
